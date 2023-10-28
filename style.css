@@ -1,0 +1,99 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    /* text-align: center; */
+    /* font-family: 'Courier New', Courier, monospace; */
+}
+
+.bgcolor1 {
+    background-color: rgb(51, 106, 138);
+}
+
+.customcolor {
+    color: rgb(255, 255, 255);
+    /* color: rgb(196, 196, 196); */
+}
+
+.textColor0 a {
+    color: rgb(147, 195, 255);
+    text-decoration: none;
+}
+
+.textColor0 a:hover {
+    color: rgb(0, 113, 251);
+    transition: 0.3s;
+}
+
+.bgcolor2 {
+    background-color: rgba(11, 127, 171, 1);
+}
+
+.bgcolor3 {
+    background-color: rgba(171, 172, 172, 0.7);
+}
+
+.image {
+    background-image: url("image/image01.jpg");
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.blur {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.borderBottom {
+    border-bottom: 1px solid gray;
+}
+
+.padding1 {
+    padding: 80px;
+}
+
+.textColor {
+    color: rgb(81, 81, 81);
+}
+
+.link {
+    background-color: rgba(11, 127, 171, 1);
+    padding: 10px;
+}
+
+.link a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.link a:hover {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    transition: 0.3s;
+}
+
+.size {
+    font-size: 13px;
+    color: rgba(143, 143, 143, 0.8);
+}
+
+.readmore a {
+    text-decoration: none;
+}
+
+.color {
+    color: rgba(0, 181, 204, 1);
+}
+
+.color:hover {
+    color: black;
+    transition: 0.3s;
+}
+
+.colorHeading {
+    color: rgba(0, 181, 204, 1);
+}
+
+.bacgroundColor {
+    background-color: rgba(218, 223, 225, 1);
+}
